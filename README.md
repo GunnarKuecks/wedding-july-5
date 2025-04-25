@@ -2,7 +2,7 @@
 
 # SUIT UP!
 ## Preferred Suit Choice: 
-![alt text](https://github.com/GunnarKuecks/wedding-july-5/blob/main/suit.png "SUIT UP BOYS")
+![alt text](https://github.com/GunnarKuecks/wedding-july-5/blob/main/download.png "SUIT UP BOYS")
 * 2-Piece Black Notch Lapel Tuxedo
 * White Shirt
 * Black Dress Shoes 
