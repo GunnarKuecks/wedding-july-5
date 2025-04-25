@@ -1,10 +1,8 @@
 #### wedding-july-5
 
-# SUIT
-# UP!
-
+# SUIT UP!
 ## Preferred Suit Choice: 
-![](https://github.com/GunnarKuecks/wedding-july-5/blob/main/suit.png =250x250)
+![](https://github.com/GunnarKuecks/wedding-july-5/blob/main/suit.png | width=250)
 * 2-Piece Black Notch Lapel Tuxedo
 * White Shirt
 * Black Dress Shoes 
